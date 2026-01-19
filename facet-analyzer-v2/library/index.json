@@ -1,0 +1,32 @@
+{
+  "version": "2.2",
+  "updated_at": "2026-01-19T10:42:17.682486",
+  "families": {
+    "test-family-2d9bf9": {
+      "id": "test-family-2d9bf9",
+      "name": "Test Family",
+      "slug": "test-family",
+      "description": "Test description",
+      "created_at": "2026-01-19T10:42:17.681932",
+      "updated_at": "2026-01-19T10:42:17.681932",
+      "base_url": "https://test.com/category",
+      "category_path": "/category",
+      "total_urls": 0,
+      "urls_200": 0,
+      "urls_404": 0,
+      "urls_301": 0,
+      "with_wrapper": 0,
+      "without_wrapper": 0,
+      "total_traffic": 0,
+      "total_demand": 0,
+      "files": {},
+      "has_crawl_master": false,
+      "has_crawl_gsc": false,
+      "has_adobe_urls": false,
+      "has_adobe_filters": false,
+      "has_semrush": false,
+      "has_keyword_planner": false,
+      "has_crawl_historical": false
+    }
+  }
+}
